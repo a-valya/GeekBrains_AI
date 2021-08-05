@@ -1,0 +1,21 @@
+From 4e700ebbf7a4119b9527f4052211094d8e1b926b Mon Sep 17 00:00:00 2001
+From: a-valya <84569503+a-valya@users.noreply.github.com>
+Date: Thu, 29 Jul 2021 00:53:44 +0300
+Subject: [PATCH] Initial commit
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..ba308fb
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# GeekBrains_AI
+\ No newline at end of file
+-- 
+2.28.0.windows.1
+
